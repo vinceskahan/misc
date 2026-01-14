@@ -9,6 +9,7 @@ This repo contains some howtos and technical notes that either document things t
 * [docker](files/docker/)
 * [esxi](files/esxi/)
 * [foreman](files/foreman/)
+* [gickup](files/gickup)
 * [git](files/git)
 * [github](files/github)
 * [gpg](files/gpg)
