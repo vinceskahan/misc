@@ -250,6 +250,12 @@ destination:
 #           - java
 #         excludeforks: true # exclude forked repositories
 #       gists: true # clone gists too
+# local:
+#     - path: /some/path/gickup
+#       structured: true # checks repos out like hostersite/user|organization/repo
+#       zip: true # zips the repository after cloned and removes the repository afterwards
+#       keep: 5 # only keeps x backups
+#       bare: true # clone the repositories as bare
+#       mirror: true # create mirror clones
+#       lfs: true # clone lfs repos, !! ATTENTION !! git and git-lfs must be installed on the system!
 #---------------------------------
-#
-```  
