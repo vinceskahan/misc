@@ -11,6 +11,7 @@ This repo contains some howtos and technical notes that either document things t
 * [foreman](files/foreman/)
 * [git](files/git)
 * [github](files/github)
+* [gpg](files/gpg)
 * [ha-config](files/ha-configs/)
 * [ha-installation](files/ha-installation/)
 * [ipv6](files/ipv6/)
